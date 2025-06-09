@@ -18,6 +18,4 @@ Programs under this category demonstrate the use of classic sorting techniques (
 5) Searching Algorithms
 These applications utilize efficient searching strategies like binary search and hashing to find information quickly. For instance, binary search is used in e-commerce product searches, while hash tables are applied in dictionary implementations and storage systems.
 
-6)General DSA Applications
-Beyond specific data structures, many programs incorporate multiple DSA techniques to simulate complex systems and solve optimization problems. Examples include the knapsack problem, memory block allocation, and movie ticket booking systems.
 
