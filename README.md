@@ -21,5 +21,4 @@ These applications utilize efficient searching strategies like binary search and
 6)General DSA Applications
 Beyond specific data structures, many programs incorporate multiple DSA techniques to simulate complex systems and solve optimization problems. Examples include the knapsack problem, memory block allocation, and movie ticket booking systems.
 
-6)General DSA Applications
-Beyond specific data structures, many programs incorporate multiple DSA techniques to simulate complex systems and solve optimization problems. Examples include the knapsack problem, memory block allocation, and movie ticket booking systems.
+
